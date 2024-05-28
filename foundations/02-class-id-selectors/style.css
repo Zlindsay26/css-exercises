@@ -1,0 +1,18 @@
+.red-pink{
+    background-color: hwb(332 0% 0%);
+    font-family: Verdana, 'DejaVu sans', sans-serif;
+}
+#blue{
+    color: blue;
+    font-size: 36px;
+}
+
+#three{
+font-size: 24px;
+}
+
+#green{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
